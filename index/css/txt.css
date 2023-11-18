@@ -1,0 +1,16 @@
+.name{
+    margin: 0px;
+    margin-top: 30px;
+    width: 100vw;
+    height: auto;
+    color: rgb(65, 186, 246);
+    font-size: 40px;
+    font-family: 'Roboto Slab';
+    font-weight: bolder;
+    text-align: center;
+    cursor: pointer;
+    transition: 1s;
+}
+.name:hover{
+    font-size: 60px;
+}
